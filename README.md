@@ -29,23 +29,26 @@
 
 ## Add Task
 
-<img src="./src/assets/task-add.png">
+![image](https://github.com/KanhaiyaChauhan037/task-management/assets/105916244/3d46d2a3-b5c8-4225-8f7d-4e2b6e4e3350)
 
 <br />
 
 ## Update Task
 
-<img src="./src/assets/task-update.png">
+![image](https://github.com/KanhaiyaChauhan037/task-management/assets/105916244/9d3da39f-399e-42ce-8013-097941ce0e37)
+
 <br />
 
 ## Delete Task
 
-<img src="./src/assets/task-delete.png">
+![image](https://github.com/KanhaiyaChauhan037/task-management/assets/105916244/3b7d5b5a-be28-448d-b9f3-74b2a9d759b7)
+
 <br />
 
 ## All Task
 
-<img src="./src/assets/task-homePage.png">
+![image](https://github.com/KanhaiyaChauhan037/task-management/assets/105916244/38414703-86ed-4bc3-9706-0d79121eae0a)
+
 <br />
 
 ## Getting Started
